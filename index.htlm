@@ -1,4 +1,4 @@
-<html lang="en">
+<html lang="en">c
 <head>
     <meta charset="UTF-8">
 </head>
@@ -7,6 +7,6 @@
 <h1>那是我爱你的心</h1>
 <p>在燃烧</p>
 <p>(｡･ω･｡)</p>
-<img srs="2.jpg"
+<img src="2.jpg"
 </body>
 </html>
